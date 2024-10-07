@@ -1,0 +1,7 @@
+Yoo bg juste à te préciser qu'il faut installer ça enfin je sais pas trop mais on c'est jamais voici les dépendance :
+ 
+1 - ramdom
+
+2 - string
+
+3 - time
